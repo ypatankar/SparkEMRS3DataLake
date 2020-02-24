@@ -1,4 +1,4 @@
-# Data Modeling with Amazon Redshift
+# Data Lake with AWS S3, EMR and Spark
 
 This project extracts json data from S3, processes data on EMR using Apache Spark, transforms it into parquet format and stores it back on S3. 
 
